@@ -1,41 +1,35 @@
 # Shi Bo
 
-**Causal Inference · Representation Learning · World Models**
+**Causal Inference · Statistical Learning · World Models**
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=jC22VgkAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/shi-b-947143211/)
-[![Email](https://img.shields.io/badge/Email-shibo%40bu.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shibo@bu.edu)
+[Google Scholar](https://scholar.google.com/citations?user=jC22VgkAAAAJ&hl=en) ·
+[LinkedIn](https://www.linkedin.com/in/shi-b-947143211/) ·
+[Email](mailto:shibo@bu.edu)
 
-I'm a **Ph.D. candidate in Statistics at Boston University** and an **AI Research Scientist Intern at Unity**. My work connects causal inference, statistical machine learning, and representation learning, from developing methods to building research software.
+I'm a Ph.D. candidate in Statistics at Boston University. I develop statistical
+methods for causal inference with high-dimensional or noisy measurements, and
+study representations that support planning and decision-making. My work spans
+methodology and theory, with implementations in research software.
 
-Previously, I worked as an **Applied Scientist at Amazon**, a **Data Scientist at Riot Games**, and a **Statistical Innovation and Data Science Co-op at Moderna**.
+My industry research includes world models at Unity, pricing and optimization
+science at Amazon, player behavior and matchmaking at Riot Games, and statistical
+analysis of mRNA clinical trials at Moderna.
 
-## Current research
+## Research
 
-- **World models at Unity:** task-relevant representations and automatic selection of the latent dimension for planning, building on [SCALE](https://arxiv.org/abs/2608.16287).
-- **Causal inference at Boston University:** high-dimensional mediation, nonlinear representation learning, latent factor models, and causal imitation learning under measurement error. I work on methodology, theoretical analysis, and simulation studies.
+- **Causal mediation:** estimation and inference with high-dimensional covariates
+  and mediators, interaction effects, nonlinear representations, and latent factors.
+- **Causal learning for decisions:** imitation learning with noisy measurements,
+  proxy-based methods, distribution shift, and contextual bandits.
+- **World models:** task-relevant representation geometry for planning, including
+  [SCALE](https://arxiv.org/abs/2608.16287).
 
-## Selected projects
+## Selected open-source work
 
-### [UHDmedi](https://github.com/shibo769/UHDmedi)
-Debiased causal mediation analysis in ultra-high-dimensional settings with interaction effects. The R research code includes simulations, real-data analysis, and method comparisons.
+| Project | Focus |
+|---|---|
+| [UHDmedi](https://github.com/shibo769/UHDmedi) | Multi-stage debiasing for ultra-high-dimensional causal mediation with interaction effects. [Paper](https://arxiv.org/abs/2412.08827) |
+| [MediEncoder](https://github.com/shibo769/MediEncoder) | Nonlinear representation learning and cross-fitted causal mediation estimation. |
+| [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) | A contributed statistics task on high-dimensional mediation debiasing for scientific coding agents. [Merged contribution](https://github.com/harbor-framework/terminal-bench-science/pull/264) |
 
-[Paper](https://arxiv.org/abs/2412.08827) · [Code](https://github.com/shibo769/UHDmedi)
-
-### [MediEncoder](https://github.com/shibo769/MediEncoder)
-Nonlinear representation learning for high-dimensional causal mediation. The Python implementation includes encoder training, cross-fitted effect estimation, and simulation evaluation.
-
-[Code](https://github.com/shibo769/MediEncoder)
-
-### [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science)
-Open-source contributions to a benchmark for AI agents working on scientific workflows. I contributed a statistics task on high-dimensional mediation debiasing.
-
-[Upstream repository](https://github.com/harbor-framework/terminal-bench-science) · [Merged contribution](https://github.com/harbor-framework/terminal-bench-science/pull/264)
-
-## Research & engineering tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-For publications and research updates, see my [Google Scholar](https://scholar.google.com/citations?user=jC22VgkAAAAJ&hl=en).
+I work mainly with Python, R, and PyTorch.
