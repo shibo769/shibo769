@@ -16,12 +16,12 @@ analysis of mRNA clinical trials at Moderna.
 
 ## Research
 
-- **Causal mediation:** estimation and inference with high-dimensional covariates
-  and mediators, interaction effects, nonlinear representations, and latent factors.
+- **Causal mediation analysis:** estimation and inference with high-dimensional covariates
+  and mediators, interaction effects, representation learning, and latent factors.
 - **Causal learning for decisions:** imitation learning with noisy measurements,
   proxy-based methods, distribution shift, and contextual bandits.
 - **World models:** task-relevant representation geometry for planning, including
-  [SCALE](https://arxiv.org/abs/2608.16287).
+  [SCALE](https://arxiv.org/abs/2608.16287) and [SWIM](https://arxiv.org/abs/2610.36662).
 
 ## Selected open-source work
 
@@ -31,4 +31,3 @@ analysis of mRNA clinical trials at Moderna.
 | [MediEncoder](https://github.com/shibo769/MediEncoder) | Nonlinear representation learning and cross-fitted causal mediation estimation. |
 | [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) | A contributed statistics task on high-dimensional mediation debiasing for scientific coding agents. [Merged contribution](https://github.com/harbor-framework/terminal-bench-science/pull/264) |
 
-I work mainly with Python, R, and PyTorch.
