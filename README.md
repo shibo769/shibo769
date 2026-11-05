@@ -2,7 +2,6 @@
 
 **Causal Inference · Statistical Learning · World Models**
 
-[Google Scholar](https://scholar.google.com/citations?user=jC22VgkAAAAJ&hl=en) ·
 [LinkedIn](https://www.linkedin.com/in/shi-b-947143211/) ·
 [Email](mailto:shibo@bu.edu)
 
