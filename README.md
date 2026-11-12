@@ -18,6 +18,7 @@ analysis of mRNA clinical trials at Moderna.
 
 - **Causal mediation analysis:** estimation and inference with high-dimensional covariates
   and mediators, interaction effects, representation learning, and latent factors.
+  Explore the [causal mediation research website](https://uhdmedi.pages.dev/).
 - **Causal learning for decisions:** imitation learning with noisy measurements,
   proxy-based methods, distribution shift, and contextual bandits.
 - **World models:** task-relevant representation geometry for planning, including
