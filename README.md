@@ -31,7 +31,7 @@ analysis of mRNA clinical trials at Moderna.
 | [MediPFN](https://github.com/shibo769/MediPFN) | In-context nuisance estimation and uncertainty quantification for causal mediation. [Paper](https://arxiv.org/abs/2611.13219) |
 | [UHDmedi](https://github.com/shibo769/UHDmedi) | Multi-stage debiasing for ultra-high-dimensional causal mediation with interaction effects. [Paper](https://arxiv.org/abs/2412.08827) |
 | [MediEncoder](https://github.com/shibo769/MediEncoder) | Nonlinear representation learning and cross-fitted causal mediation estimation. [Paper](https://arxiv.org/abs/2606.30648) |
-| [FARMA](https://github.com/shibo769/FactorMed) | Factor-adjusted causal mediation with high-dimensional surrogates. [Paper](https://arxiv.org/abs/2611.03167) · Code forthcoming. |
+| [FARMA](https://github.com/shibo769/FactorMed) | Factor-adjusted causal mediation with high-dimensional surrogates. [Paper](https://arxiv.org/abs/2611.03167) · Simulation code. |
 | [CausIL](https://github.com/shibo769/Causal-Imitation-Learning-Under-Measurement-Error) | Causal imitation learning under measurement error and distribution shift. [Paper](https://arxiv.org/abs/2601.22206) |
 | [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) | A contributed statistics task on high-dimensional mediation debiasing for scientific coding agents. [Merged contribution](https://github.com/harbor-framework/terminal-bench-science/pull/264) |
 
